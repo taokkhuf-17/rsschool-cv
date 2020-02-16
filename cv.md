@@ -1,10 +1,11 @@
-###CV
+
 1. Vlada Shegay
 2. my email: trckkl10502@gmail.com
    telegram: @certainlynotvlada (https://t.me/certainlynotvlada)
 3.   
 4. None in particular
-5. One of the tasks (JS): ```javascript
+5. One of the tasks (JS): 
+```javascript
    function findAll(str, substr){
       let counter = 0
     
